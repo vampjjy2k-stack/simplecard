@@ -218,4 +218,9 @@ textarea{resize:vertical}
   width: 60px;     /* controla tamanho */
   height: auto;
   object-fit: contain;
+.hero {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
 }
